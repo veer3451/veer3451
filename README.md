@@ -1,4 +1,3 @@
-## Hi there 👋
-
-<!--
-**veer3451/veer3451** is a ✨ _special_ ✨ repository b
+#veer3451
+this is my first git repository
+Dinesh yadav
